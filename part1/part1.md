@@ -6,7 +6,7 @@
 6. Error, because we can't reassign the value of a const variable
 7. Error, because const variables can only be accessed within a block-scope
 
-## Part 2b
+## Part 1b
 1. 3, The for loop will run until i = 3. Since i was declared using var, then we can access it anywhere within the function scope
 2. 150, discountedPrice was decalred using var so we can access it outside the for loop
 3. 150, finalPrice was declared using var so we can access it outside the for loop
