@@ -45,7 +45,13 @@
 15. The difference between the == and === operators is that == allows for type conversion. === is the strict equality operator, where it doesn't take into consideration type conversion.  
 
 17. When calling the function, this will result in the return value of an array of [2,4,6]. I arrived at this conclusion because within the modifyArray function, we're pushing in values into the array based on the function doSomething. 
-18. 
+
+(19)
+1
+4
+3
+2
+
 
 
 
